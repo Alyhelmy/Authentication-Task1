@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895774076017",
+    "project_id": "authenticationapp-74afb",
+    "storage_bucket": "authenticationapp-74afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895774076017:android:289db4f5d5c4c105b83fd0",
+        "android_client_info": {
+          "package_name": "com.Abs.AI.authentication_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895774076017-b5mtml8oltqg721l1ea7vg1dugv473sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfEYrusUyE6xPAszaJ1cHR5PLLyd35JXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895774076017-b5mtml8oltqg721l1ea7vg1dugv473sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
